@@ -1,8 +1,8 @@
 # MongoDB Operational Data Layer Connectors
 
-This repository contains a growing collection of connectors designed to implement and operate a MongoDB-powered operational data layer (ODL).
+This repository contains a growing collection of example scripts and code snippets designed to help implementing and operating a MongoDB-powered operational data layer (ODL).
 
-Our goal is to support developers who want to explore and learn best practices for transforming and transporting data, enabling seamless participation within the ODL and its operations.
+Our goal is to help developers discover and master best practices for transforming and transporting unstructured and semi-structured data so it can participate seamlessly in the ODL. Practical guidance includes one core skill: turning anything into JSON.
 
 Some connectors focus on ingesting data into the ODL (input side), while others facilitate integration by connecting MongoDB data to target applications (output side).
 
